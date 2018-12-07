@@ -3,8 +3,8 @@
 ## Description
 This was an in-class code along exercise, where we walk through the steps of setting up a project in Webpack. We make an axios call to a random dogs API, and display the dogs to the dom.
 
-![dogsrule](./images/dogsrules.jpg)
-![mainview](./images/snap-1.png)
+![dogsrule](./src/images/dogsrules.jpg)
+![mainview](./src/images/snap-1.png)
 
 ## To view this app
 1. Clone the repository to a local machine.
